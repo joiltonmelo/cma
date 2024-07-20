@@ -1,0 +1,122 @@
+
+/*VERSÃO MOBILE*/
+@media screen and (max-width: 640px) {
+
+h1, h2, h3, h4, h5 {
+font-size: 24px;
+font-weight: 900;
+}
+
+p {
+font-size: 16px;
+font-weight: 500;
+line-height: 22px;
+}
+
+.box-hero {
+flex-direction: column;
+}
+
+.s-hero {
+height: 850px;
+}
+
+.img-hero {
+width: 100%;
+}
+
+
+.logo {
+margin-bottom: 0px;
+max-width: 240px;
+width: 100%;
+}
+
+.box-text-hero {
+margin-top: 70px;
+}
+
+.btn {
+max-width: 100%;
+}
+
+.box-missao {
+flex-direction: column;
+gap: 24px;
+}
+
+.s-missao {
+height: 620px;
+margin-top: -26px;
+}
+
+.img-nossa-missao {
+width: 100%;
+height: 180px;
+}
+
+.s-casa {
+height: 718px;
+}
+
+.box-casa {
+flex-direction: column;
+gap: 24px;
+}
+
+.img-nossa-casa {
+width: 100%;
+height: 180px;
+}
+
+.s-servicos {
+height: 1389px;
+}
+
+.cards {
+flex-direction: column;
+}
+
+.img-servico-01, .img-servico-02, .img-servico-03, .img-servico-04 {
+width: 100%;
+}
+
+.s-galeria {
+height: 345px;
+}
+
+.s-doador {
+height: 1090px;
+}
+
+.box-doador {
+flex-direction: column;
+gap: 24px;
+}
+
+.conta-agencia {
+flex-direction: column;
+gap: 6px;
+}
+
+.box-qrcode {
+max-width: 100%;
+text-align: left;
+}
+
+.s-parceiros {
+height: 952px;
+margin-top: -20px;
+}
+
+.box-rodape {
+flex-direction: column;
+gap: 24px;
+}
+
+.mapa img {
+width: 100%;
+}
+
+
+}
