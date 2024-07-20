@@ -25,7 +25,6 @@ height: 850px;
 width: 100%;
 }
 
-
 .logo {
 margin-bottom: 0px;
 max-width: 240px;
@@ -33,7 +32,7 @@ width: 100%;
 }
 
 .box-text-hero {
-margin-top: 70px;
+margin-top: 16px;
 }
 
 .btn {
@@ -82,7 +81,7 @@ width: 100%;
 }
 
 .s-galeria {
-height: 345px;
+height: 382px;
 }
 
 .s-doador {

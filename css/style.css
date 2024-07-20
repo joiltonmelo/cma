@@ -40,9 +40,15 @@ margin: 0 auto;
 padding: 0 20px;
 }
 
+
 h1, h2, h3, h4, h5 {
 font-size: 32px;
 font-weight: 900;
+}
+
+img {
+max-width: 100%;
+display: block;
 }
 
 p {
@@ -178,7 +184,6 @@ padding-bottom: 4px;
 }
 
 
-
 .s-servicos {
 width: 100%;
 height: 632px;
@@ -260,13 +265,13 @@ bottom: 14px;
 
 .cards {
 display: flex;
-gap: 16px;
+gap: 24px;
 }
 
 .card {
 display: flex;
 flex-direction: column;
-gap: 16px;
+gap: 8px;
 }
 
 .card p {
@@ -289,7 +294,7 @@ align-items: center;
 display: flex;
 flex-direction: column;
 align-items: center;
-gap: 38px;
+gap: 10px;
 text-align: center;
 
 }
